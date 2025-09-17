@@ -6,7 +6,6 @@
 ## 🔗 Connect with me
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jana.alazzeh4931@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jana-alazzeh-b4b727319/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://yourportfolio.com)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
