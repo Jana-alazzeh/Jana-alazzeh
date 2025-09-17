@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?size=30&duration=5000&color=FF69B4&lines=Hi,+I'm+Jana+alazzeh!;Flutter-UI%2FUX-Designer+;&+ASP.Net+Developer
+![Typing SVG](https://readme-typing-svg.demolab.com?size=30&duration=5000&color=FF69B4&lines=Hi,+I'm+Jana+alazzeh!;Flutter-UI%2FUX+Designer;&+ASP.Net+Developer
 )
 
 <!--
