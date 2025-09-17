@@ -1,4 +1,5 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?size=30&duration=8000&color=FF69B4&lines=Hi,+I'm+Jana+alazzeh💗;A+Computer+Science+Student+++++;passionate+about+design+%26+technology;Flutter-UI%2FUX-Designer-ASP.Net)
+![Typing SVG](https://readme-typing-svg.demolab.com?size=30&duration=5000&color=FF69B4&lines=Hi,+I'm+Jana💗;CS+Student;Passionate+about+Design+%26+Tech;Flutter-UI%2FUX-Designer-ASP.Net
+)
 
 <!--
 **Jana-alazzeh/Jana-alazzeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
