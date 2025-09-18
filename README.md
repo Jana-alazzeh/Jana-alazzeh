@@ -5,10 +5,14 @@
 
 
 
-_________________________________________________________________________________________________________________________________________________________________________________________________________________
- 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jana.alazzeh4931@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jana-alazzeh-b4b727319/)
+<p align="center">
+  <a href="mailto:jana.alazzeh4931@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jana-alazzeh-b4b727319/">
+    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
