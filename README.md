@@ -43,3 +43,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jana-alazzeh&layout=compact&theme=tokyonight" alt="Top Languages" style="display:inline-block; margin-right:10px;"/>
  
 </p>
+
+----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jana-alazzeh&theme=tokyonight" alt="GitHub Streak"/>
+</p>
