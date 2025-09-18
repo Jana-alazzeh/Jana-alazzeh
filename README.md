@@ -33,8 +33,17 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 🛠️ My Tools
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/figma.svg" alt="Figma" height="40" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/visualstudio.svg" alt="Visual Studio" height="40" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/visualstudiocode.svg" alt="VS Code" height="40" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" alt="GitHub" height="40" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/canva.svg" alt="Canva" height="40" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/notion.svg" alt="Notion" height="40" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/git.svg" alt="Git" height="40" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/postman.svg" alt="Postman" height="40" /> &nbsp;
 
-
+------------------
 ## 📊My GitHub Stats
 
 
@@ -50,11 +59,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jana-alazzeh&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 <hr>
+<p align="center">
+  <em style="color:#FFB6C1; font-size:18px;">
+    “Success is the sum of small efforts, repeated day in and day out.”
+  </em>
+ 
+  <br>
+<span>                                                       — Robert Collier</span>
+ </p>
 
-<p align="center" style="font-size:29px;">
-  <span style="color:#FF69B4;">“</span>
-  Success is the sum of small efforts, repeated day in and day out.
-  <span style="color:#FF69B4;">”</span><br>
-  <em>— Robert Collier</em>
-</p>
 
