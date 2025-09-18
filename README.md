@@ -49,3 +49,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jana-alazzeh&theme=tokyonight" alt="GitHub Streak"/>
 </p>
+---
+
+> “Success is the sum of small efforts, repeated day in and day out.”  
+> — Robert Collier
