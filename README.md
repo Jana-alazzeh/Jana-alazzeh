@@ -1,13 +1,13 @@
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![Typing SVG](https://readme-typing-svg.demolab.com?size=30&duration=5000&color=FF69B4&lines=+++++++++++Hi,+I'm+Jana+alazzeh!;+++++++++++ASP.Net-Flutter+Developer;+++++++++%26+UI%2FUX+Designer)
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🔗 Connect with me
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jana.alazzeh4931@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jana-alazzeh-b4b727319/)
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 ## 🛠️ Tech Stack
