@@ -12,7 +12,6 @@
 
 
 ## 🛠️ Tech Stack
-
 ###  ⟫⟫ Backend & Problem Solving
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
