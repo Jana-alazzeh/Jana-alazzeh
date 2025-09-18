@@ -4,7 +4,6 @@
 </p>
 
  
-## 🔗 Connect with me
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jana.alazzeh4931@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jana-alazzeh-b4b727319/)
 
@@ -17,7 +16,7 @@
 
 ## 🛠️ Tech Stack
 
-### 🖥️ Backend & Problem Solving
+###  ⟫⟫ Backend & Problem Solving
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![ASP.Net](https://img.shields.io/badge/ASP.Net-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
@@ -26,7 +25,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-### 🌐 Frontend Development
+### ⟫⟫ Frontend Development
 ![UI/UX Design](https://img.shields.io/badge/UI%2FUX-Design-FF69B4?style=for-the-badge&logo=figma&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
