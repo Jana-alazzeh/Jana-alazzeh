@@ -4,22 +4,23 @@
 </P>
 
 <p align="center">
-  <a href="mailto:jana.alazzeh4931@gmail.com" style="text-decoration:none;">
+  <a href="mailto:jana.alazzeh4931@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/jana-alazzeh-b4b727319/" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/jana-alazzeh-b4b727319/">
     <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Jana-alazzeh" style="text-decoration:none;">
+  <a href="https://github.com/Jana-alazzeh">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://yourportfolio.com" style="text-decoration:none;">
+  <a href="https://yourportfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://drive.google.com/your-cv-link" style="text-decoration:none;">
+  <a href="https://drive.google.com/your-cv-link">
     <img src="https://img.shields.io/badge/CV-Download-orange?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"/>
   </a>
 </p>
+
 
 
 
