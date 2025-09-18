@@ -1,11 +1,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<table width="100%" height="140">
-  <tr>
-    <td align="center" valign="middle">
-      <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?size=22&duration=5000&color=FFB6C1&lines=Hi,+I'm+Jana+alazzeh!;ASP.Net-Flutter+Developer;UI/UX+Designer" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?size=20&duration=5000&color=FFC0CB&width=600&lines=Hi,+I'm+Jana+alazzeh!;ASP.Net-Flutter+Developer;UI/UX+Designer" />
+</p>
 
  
 ## 🔗 Connect with me
