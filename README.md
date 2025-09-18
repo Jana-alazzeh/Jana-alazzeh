@@ -1,11 +1,10 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?size=24&duration=5000&color=FFB6C1&lines=+++++++++++Hi,+I'm+Jana+alazzeh!;+++++++++++ASP.Net-Flutter+Developer;+++++++++%26+UI%2FUX+Designer" />
-</p>
 
 
 
-<p align="center">
+
   <a href="mailto:jana.alazzeh4931@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
