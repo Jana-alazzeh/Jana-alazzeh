@@ -49,7 +49,12 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jana-alazzeh&theme=tokyonight" alt="GitHub Streak"/>
 </p>
----
+<hr>
 
-> “Success is the sum of small efforts, repeated day in and day out.”  
-> — Robert Collier
+<p align="center" style="font-size:29px;">
+  <span style="color:#FF69B4;">“</span>
+  Success is the sum of small efforts, repeated day in and day out.
+  <span style="color:#FF69B4;">”</span><br>
+  <em>— Robert Collier</em>
+</p>
+
