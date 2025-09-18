@@ -1,13 +1,17 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
 <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?size=24&duration=5000&color=FFB6C1&lines=+++++++++++Hi,+I'm+Jana+alazzeh!;+++++++++++ASP.Net-Flutter+Developer;+++++++++%26+UI%2FUX+Designer" />
+  <span>
+    
+    ## &nbsp;
+  </span>
 </P>  
 
 
 
 <p align="center">
   
-  ## &nbsp;
+
   
   <a href="mailto:jana.alazzeh4931@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;<a href="https://www.linkedin.com/in/jana-alazzeh-b4b727319/"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;<a href="https://github.com/Jana-alazzeh"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>&nbsp;<a href="https://drive.google.com/your-cv-link"><img src="https://img.shields.io/badge/CV-Download-orange?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"/></a>
 </p>
