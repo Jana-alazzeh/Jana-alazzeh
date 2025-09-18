@@ -1,8 +1,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
-
-<img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?size=24&duration=5000&color=FFB6C1&lines=+++++++++++Hi,+I'm+Jana+alazzeh!;+++++++++++ASP.Net-Flutter+Developer;+++++++++%26+UI%2FUX+Designer" />
-</P>##      &nbsp;
+<img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?size=24&duration=5000&color=FFB6C1&lines=+++++++++++Hi,+I'm+Jana+alazzeh!;+++++++++++ASP.Net-Flutter+Developer;+++++++++%26+UI%2FUX+Designer" /></P>
+##      &nbsp;
 
 
 <p align="center">
