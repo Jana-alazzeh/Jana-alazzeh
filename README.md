@@ -34,14 +34,14 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🛠️ My Tools
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/figma.svg" alt="Figma" height="40" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/visualstudio.svg" alt="Visual Studio" height="40" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/visualstudiocode.svg" alt="VS Code" height="40" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" alt="GitHub" height="40" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/canva.svg" alt="Canva" height="40" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/notion.svg" alt="Notion" height="40" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/git.svg" alt="Git" height="40" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/postman.svg" alt="Postman" height="40" /> &nbsp;
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ------------------
 ## 📊My GitHub Stats
