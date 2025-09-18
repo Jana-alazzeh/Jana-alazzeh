@@ -35,11 +35,11 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## My GitHub Stats
+## 📊My GitHub Stats
 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jana-alazzeh&show_icons=true&theme=tokyonight" alt="Jana GitHub Stats" style="display:inline-block; margin-right:10px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jana-alazzeh&layout=compact&theme=tokyonight" alt="Top Languages" style="display:inline-block; margin-right:10px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jana-alazzeh&theme=tokyonight" alt="GitHub Streak" style="display:inline-block;"/>
+ 
 </p>
