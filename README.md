@@ -13,7 +13,7 @@
 ## 🛠️ Tech Stack
 
 ### 🖥️ Backend & Problem Solving
-![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=sql&logoColor=white)
 ![ASP.Net](https://img.shields.io/badge/ASP.Net-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
 ![Problem Solving](https://img.shields.io/badge/Problem_Solving-F0DB4F?style=for-the-badge&logo=hackerrank&logoColor=black)
 
