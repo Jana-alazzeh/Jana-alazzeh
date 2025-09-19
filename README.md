@@ -60,11 +60,7 @@
 </p>
 <hr>
 
-<p align="center">
-  <img src=https://github.com/Jana-alazzeh/Jana-alazzeh/blob/main/Untitled%20(500%20x%20100%20px).png?raw=true
-alt="Quote"
-       width="900">
-</p>
+
 
 
 <p align="center">
