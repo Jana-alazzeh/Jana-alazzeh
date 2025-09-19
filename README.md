@@ -62,3 +62,9 @@
 
 
 
+<p align="center">
+  <img src="https://github.com/Jana-alazzeh/Jana-alazzeh/blob/main/Untitled%20design%20%2820%29.png?raw=true"
+       alt="Quote"
+       width="400">
+</p>
+
