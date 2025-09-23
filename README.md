@@ -55,11 +55,7 @@
 
 ----
 ## GitHub Streak 🔥
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jana-alazzeh&theme=tokyonight" alt="GitHub Streak"/>
-</p>
 
-<hr>
 
 
 
