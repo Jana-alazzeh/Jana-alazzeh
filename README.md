@@ -44,6 +44,19 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ------------------
+## 📊My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jana-alazzeh&show_icons=true&theme=tokyonight" alt="Jana GitHub Stats" style="display:inline-block; margin-right:10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jana-alazzeh&layout=compact&theme=tokyonight" alt="Top Languages" style="display:inline-block; margin-right:10px;"/>
+ 
+</p>
+
+
+----
+## GitHub Streak 🔥
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jana-alazzeh&theme=tokyonight" alt="GitHub Streak"/>
+</p>
 
 
 <hr>
