@@ -44,12 +44,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jana-alazzeh&layout=compact&bg_color=F6ADCD&title_color=000000&text_color=000000&border_color=84C376" alt="Top Languages" />
 </p>
 
-----
+
 
 ## GitHub Streak 🔥
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Jana-alazzeh&theme=dracula&background=F6ADCD&border=84C376&stroke=EA78A0&ring=EA78A0&fire=EA78A0&currStreakNum=000000" alt="GitHub Streak"/>
 </p>
+
+
+
+
+----
+
+
 
 <p align="center">
   <img src="https://github.com/Jana-alazzeh/Jana-alazzeh/blob/main/Untitled%20design%20%2820%29.png?raw=true"
