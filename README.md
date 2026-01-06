@@ -40,15 +40,15 @@
 ------------------
 ## 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jana-alazzeh&show_icons=true&bg_color=F6ADCD&title_color=000000&icon_color=EA78A0&text_color=000000&border_color=84C376" alt="Jana GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jana-alazzeh&layout=compact&bg_color=F6ADCD&title_color=000000&text_color=000000&border_color=84C376" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jana-alazzeh&show_icons=true&bg_color=F6ADCD&title_color=4AB62C&icon_color=EA78A0&text_color=4AB62C&border_color=84C376&cache_seconds=1800" alt="Jana GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jana-alazzeh&layout=compact&bg_color=F6ADCD&title_color=4AB62C&text_color=4AB62C&border_color=84C376&cache_seconds=1800" alt="Top Languages" />
 </p>
 
-
+----
 
 ## GitHub Streak 🔥
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jana-alazzeh&theme=dracula&background=F6ADCD&border=84C376&stroke=EA78A0&ring=EA78A0&fire=EA78A0&currStreakNum=000000" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Jana-alazzeh&background=F6ADCD&border=84C376&stroke=EA78A0&ring=EA78A0&fire=EA78A0&currStreakNum=4AB62C&sideNums=4AB62C&sideLabels=4AB62C&dates=4AB62C&currStreakLabel=EA78A0" alt="GitHub Streak"/>
 </p>
 
 
