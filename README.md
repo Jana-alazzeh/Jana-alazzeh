@@ -38,26 +38,18 @@
 ![Notion](https://img.shields.io/badge/Notion-F6ADCD?style=for-the-badge&logo=notion&logoColor=EA78A0)
 ![Git](https://img.shields.io/badge/Git-EA78A0?style=for-the-badge&logo=git&logoColor=white)
 ------------------
-## 📊My GitHub Stats
+## 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jana-alazzeh&show_icons=true&theme=tokyonight" alt="Jana GitHub Stats" style="display:inline-block; margin-right:10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jana-alazzeh&layout=compact&theme=tokyonight" alt="Top Languages" style="display:inline-block; margin-right:10px;"/>
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=Jana-alazzeh&show_icons=true&bg_color=F6ADCD&title_color=000000&icon_color=EA78A0&text_color=000000&border_color=84C376" alt="Jana GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jana-alazzeh&layout=compact&bg_color=F6ADCD&title_color=000000&text_color=000000&border_color=84C376" alt="Top Languages" />
 </p>
-
 
 ----
+
 ## GitHub Streak 🔥
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jana-alazzeh&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Jana-alazzeh&theme=dracula&background=F6ADCD&border=84C376&stroke=EA78A0&ring=EA78A0&fire=EA78A0&currStreakNum=000000" alt="GitHub Streak"/>
 </p>
-
-
-<hr>
-
-
-
-
 
 <p align="center">
   <img src="https://github.com/Jana-alazzeh/Jana-alazzeh/blob/main/Untitled%20design%20%2820%29.png?raw=true"
