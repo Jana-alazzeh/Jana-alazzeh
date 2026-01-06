@@ -48,7 +48,7 @@
 
 ## GitHub Streak 🔥
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jana-alazzeh&theme=rose_pine" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Jana-alazzeh&theme=ayu-mirage&background=A45D78&ring=84C376&fire=84C376&stroke=84C376&currStreakLabel=84C376" alt="GitHub Streak"/>
 </p>
 
 
