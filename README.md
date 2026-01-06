@@ -45,9 +45,10 @@
 </p>
 
 ----
+
 ## GitHub Streak 🔥
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jana-alazzeh&background=F6ADCD&border=4AB62C&stroke=000000&ring=EA78A0&fire=EA78A0&currStreakNum=000000&sideNums=4AB62C&sideLabels=000000&dates=4AB62C&currStreakLabel=EA78A0" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Jana-alazzeh&theme=rose_pine" alt="GitHub Streak"/>
 </p>
 
 ---------
