@@ -53,16 +53,14 @@
 
 ---------
 
-## 📈 Contribution Graph
-
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Jana's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Jana-alazzeh&bg_color=F6ADCD&color=4AB62C&line=EA78A0&point=84C376&area=true&hide_border=true&font_color=000000&title_color=EA78A0" />
+    <img alt="Jana's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Jana-alazzeh&bg_color=00000000&color=4AB62C&line=EA78A0&point=FFFFFF&area=true&hide_border=true&font_color=84C376&title_color=EA78A0" />
   </a>
 </p>
 
 
-
+---------------
 <p align="center">
   <img src="https://github.com/Jana-alazzeh/Jana-alazzeh/blob/main/Untitled%20design%20%2820%29.png?raw=true"
        alt="Quote"
