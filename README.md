@@ -44,12 +44,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jana-alazzeh&layout=compact&bg_color=1F222E&title_color=EA78A0&text_color=FFFFFF&border_color=4AB62C&cache_seconds=1800" alt="Top Languages" />
 </p>
 
-----
 
-## GitHub Streak 🔥
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jana-alazzeh&theme=rose_pine" alt="GitHub Streak"/>
-</p>
 
 ---------
 
