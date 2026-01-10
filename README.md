@@ -46,6 +46,14 @@
 
 
 
+----
+
+## GitHub Streak 🔥
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jana-alazzeh&background=00000000&border=EA78A0&stroke=FFFFFF&ring=84C376&fire=EA78A0&currStreakNum=FFFFFF&sideNums=84C376&sideLabels=FFFFFF&dates=84C376&currStreakLabel=EA78A0" alt="GitHub Streak"/>
+</p>
+
+
 ---------
 
 <p align="center">
