@@ -50,8 +50,8 @@
 
 ## GitHub Streak 🔥
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jana-alazzeh" alt="GitHub Streak"/>
-</p>>
+  <img src="https://streak-stats.demolab.com?user=Jana-alazzeh&theme=dark" alt="GitHub Streak"/>
+</p>
 
 ---------
 
