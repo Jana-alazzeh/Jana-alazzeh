@@ -50,9 +50,8 @@
 
 ## GitHub Streak 🔥
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jana-alazzeh&background=00000000&border=EA78A0&stroke=FFFFFF&ring=84C376&fire=EA78A0&currStreakNum=FFFFFF&sideNums=84C376&sideLabels=FFFFFF&dates=84C376&currStreakLabel=EA78A0" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jana-alazzeh&theme=black-ice&background=F6ADCD&border=4AB62C&stroke=EA78A0&ring=EA78A0&fire=EA78A0&currStreakNum=000000&sideNums=4AB62C&sideLabels=000000&dates=4AB62C&currStreakLabel=EA78A0" alt="GitHub Streak"/>
 </p>
-
 
 ---------
 
