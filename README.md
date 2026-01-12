@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
-<img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Pacifico&size=24&duration=5000&color=EA78A0&center=true&vCenter=true&width=435&lines=Hi,+I'm+Jana+alazzeh!+🎀;ASP.Net-Flutter+Developer;UI/UX+Designer" />
+<img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Pacifico&size=24&duration=5000&pause=1000&color=EA78A0&center=true&vCenter=true&width=435&lines=Hi,+I'm+Jana+alazzeh!+%F0%9F%A9%B7;ASP.Net-Flutter+Developer;%26+UI%2FUX+Designer" />
 </p>
 
 <p align="center">
