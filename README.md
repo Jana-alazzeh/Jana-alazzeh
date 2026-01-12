@@ -1,7 +1,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
-<img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?size=24&duration=5000&color=EA78A0&center=true&vCenter=true&width=435&lines=Hi,+I'm+Jana+alazzeh!;ASP.Net-Flutter+Developer;%26+UI%2FUX+Designer" />
-</P>  
+<img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Pacifico&size=24&duration=5000&color=EA78A0&center=true&vCenter=true&width=435&lines=Hi,+I'm+Jana+alazzeh!+🎀;ASP.Net-Flutter+Developer;UI/UX+Designer" />
+</p>
 
 <p align="center">
   <a href="mailto:jana.alazzeh4931@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA78A0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;<a href="https://www.linkedin.com/in/jana-alazzeh-b4b727319/"><img src="https://img.shields.io/badge/LinkedIn-Follow-84C376?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;<a href="https://github.com/Jana-alazzeh"><img src="https://img.shields.io/badge/GitHub-Follow-F6ADCD?style=for-the-badge&logo=github&logoColor=EA78A0" alt="GitHub"/></a>&nbsp;<a href="https://jana.byethost18.com/"><img src="https://img.shields.io/badge/Portfolio-Visit-EA78A0?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>&nbsp;<a href="https://drive.google.com/your-cv-link">
