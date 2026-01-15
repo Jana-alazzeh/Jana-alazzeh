@@ -4,7 +4,6 @@
 </p>
 
 <p align="center">
-
   <a href="https://www.linkedin.com/in/jana-alazzeh-b4b727319/"><img src="https://img.shields.io/badge/LinkedIn-Follow-84C376?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
   <a href="https://github.com/Jana-alazzeh"><img src="https://img.shields.io/badge/GitHub-Follow-F6ADCD?style=for-the-badge&logo=github&logoColor=EA78A0" alt="GitHub"/></a>&nbsp;
   <a href="https://www.codewars.com/users/Jana_alazzeh"><img src="https://img.shields.io/badge/Codewars-Profile-FFDCC6?style=for-the-badge&logo=codewars&logoColor=EA78A0" alt="Codewars"/></a>&nbsp;
