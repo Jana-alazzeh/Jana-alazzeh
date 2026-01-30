@@ -1,3 +1,4 @@
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/82eed5e0-3add-4bd3-8670-cc0590bb3c25" />
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
 <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Pacifico&size=24&duration=5000&pause=1000&color=EA78A0&center=true&vCenter=true&width=435&lines=Hi,+I'm+Jana+alazzeh!+%F0%9F%A9%B7;ASP.Net-Flutter+Developer;%26+UI%2FUX+Designer" />
@@ -51,7 +52,12 @@
 
 
 ----
-##GitHub Streak
+
+## GitHub Streak 🔥
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jana-alazzeh&theme=dracula" alt="GitHub Streak"/>
+</p>
+
 
 ---------
 
