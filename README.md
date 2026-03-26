@@ -29,6 +29,7 @@
 ![Python](https://img.shields.io/badge/Python-84C376?style=for-the-badge&logo=python&logoColor=FFDCC6)
 
 
+
 ### ⟫⟫ Frontend Development
 ![UI/UX Design](https://img.shields.io/badge/UI%2FUX-Design-F6ADCD?style=for-the-badge&logo=figma&logoColor=EA78A0)
 ![Flutter](https://img.shields.io/badge/Flutter-84C376?style=for-the-badge&logo=flutter&logoColor=white)
