@@ -9,6 +9,9 @@
   <a href="https://github.com/Jana-alazzeh"><img src="https://img.shields.io/badge/GitHub-Follow-F6ADCD?style=for-the-badge&logo=github&logoColor=EA78A0" alt="GitHub"/></a>&nbsp;
   <a href="https://www.codewars.com/users/Jana_alazzeh"><img src="https://img.shields.io/badge/Codewars-Profile-FFDCC6?style=for-the-badge&logo=codewars&logoColor=EA78A0" alt="Codewars"/></a>&nbsp;
   <a href="https://janaalazzeh.rf.gd/"><img src="https://img.shields.io/badge/Portfolio-Visit-EA78A0?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://janaalazzeh.rf.gd/CV.pdf">
+  <img src="https://img.shields.io/badge/CV-PDF-1E1B4B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"/>
+</a>
 </p>
 
 
